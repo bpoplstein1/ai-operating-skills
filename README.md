@@ -1,5 +1,5 @@
 # AI Operating Skills
-### By Applied by Brandon
+### From The Output · By Brandon Poplstein
 
 **Free AI skills for building products and running companies.**
 
@@ -42,9 +42,9 @@ This first release is a manual-input starter. It does not install connectors, mo
 
 ## About
 
-Created by [Brandon Poplstein](https://www.brandonpoplstein.com/), co-founder and head of product at SalesAi, for **Applied by Brandon**.
+Created by [Brandon Poplstein](https://www.brandonpoplstein.com/), co-founder and head of product at SalesAi, for **The Output**.
 
-The newsletter explores AI skills, workflows, and lessons from building companies. Its signup destination will be linked here when it launches. For more about Brandon and his work, visit [brandonpoplstein.com](https://www.brandonpoplstein.com/).
+**AI that moves work forward.** The newsletter explores AI skills, workflows, and lessons from building companies. Its signup destination will be linked here when it launches. For more about Brandon and his work, visit [brandonpoplstein.com](https://www.brandonpoplstein.com/).
 
 These are original starter skills based on Brandon's described operating approach, not an export of his private production setup. All examples are fictional. This is an independent project, not an official SalesAi or EOS product.
 
