@@ -1,6 +1,6 @@
 ---
 name: chief-of-staff
-description: Run a founder or leader's day and week on three routines from one shared context file: a morning brief, an end-of-day debrief, and a weekly plan. Use when you want a repeatable operating cadence rather than one-off summaries. Drafts only; a person approves anything that changes a shared record.
+description: "Run a founder or leader's day and week on three routines from one shared context file: a morning brief, an end-of-day debrief, and a weekly plan. Use when you want a repeatable operating cadence rather than one-off summaries. Drafts only; a person approves anything that changes a shared record."
 ---
 # Chief of Staff
 
