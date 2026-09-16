@@ -19,6 +19,7 @@ Use the leadership brief to prepare, meeting follow-through to draft changes, an
 - “Use leadership-brief with these notes. Prepare me for September 14, 2026. Focus on decisions that affect our current priorities.”
 - “Use meeting-follow-through on meeting M1. Compare it with our existing commitments. Draft updates only.”
 - “Use weekly-review for September 14–18, 2026, ending at 5 p.m. America/New_York. Distinguish confirmed completion from missing updates.”
+- “Use chief-of-staff, morning brief, for September 14, 2026 at 9 a.m. Use only these sources and show what needs a decision.”
 
 ## Add connections later
 

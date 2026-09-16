@@ -16,15 +16,16 @@ Built for founders, product leaders, and teams who want a practical starting poi
 
 You do not need to connect Gmail, Slack, or any other service to try this.
 
-## Three skills. One routine.
+## Four skills. One routine.
 
 | Skill | When to use it | What you get |
 |---|---|---|
+| [Chief of Staff](skills/chief-of-staff/SKILL.md) | Every day and every week, on a cadence | Three routines from one context file: morning brief, end-of-day debrief, weekly plan |
 | [Leadership Brief](skills/leadership-brief/SKILL.md) | Before starting the day or a leadership meeting | Priorities, decisions, blockers, and evidence gaps |
 | [Meeting Follow-Through](skills/meeting-follow-through/SKILL.md) | After a meeting | Confirmed decisions, explicit commitments, and proposed knowledge updates |
 | [Weekly Review](skills/weekly-review/SKILL.md) | At the end of a week | Changes against priorities, unresolved issues, and next-week focus |
 
-All three can use the same [shared context template](docs/shared-context.md). Keep your real company context in a separate private location, not in this public repository.
+All four use the same [shared context template](docs/shared-context.md). The chief of staff is the three daily and weekly routines run as one cadence; its worked example is [here](examples/northstar/chief-of-staff-example.md). Keep your real company context in a separate private location, not in this public repository.
 
 ## How to use the library
 
